@@ -3,7 +3,7 @@ Spamchat
 
 Spamchat snaps images from your local computer to your friends over Snapchat.
 
-Learn more at http://www.princeton.edu/~saha/
+Learn more at http://www.princeton.edu/~saha/spamchat/
 
 Usage
 -----
