@@ -9,7 +9,7 @@ Usage
 -----
 Install the required libraries with:
 
-    pip install requests pattern pycrypto
+    pip install -r requirements.txt
 
 Download images from Bing Images with download_images.py or add images yourself to the images/ folder
 
