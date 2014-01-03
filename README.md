@@ -16,3 +16,5 @@ Download images from Bing Images with download_images.py or add images yourself 
 Send the snaps with:
 
     python spamchat.py images/
+
+Tested with Python 2.7.5
