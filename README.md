@@ -3,7 +3,15 @@ Spamchat
 
 Spamchat snaps images from your local computer to your friends over Snapchat.
 
-Learn more at http://www.princeton.edu/~saha/spamchat/
+
+What You See
+---
+![](yousee.png)
+
+What Your Friends See
+---
+![](friendssee.png)
+
 
 Usage
 -----
@@ -17,4 +25,8 @@ Send the snaps with:
 
     python spamchat.py images/
 
-Tested with Python 2.7.5
+Tested with Python 2.7.5.
+
+Advice
+---
+Spamchat does not condone spam. Use at your own risk.
